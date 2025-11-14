@@ -1,4 +1,4 @@
-# 🎭 Meme Template Viewer
+#  Meme Template Viewer
 
 > **Ek simple aur mazedaar React application jisse tum trending meme templates dekh aur search kar sakte ho!**
 
